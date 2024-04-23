@@ -1,0 +1,14 @@
+node_modules
+.ntli
+.cache
+.stackbit
+.env
+dist
+.next
+*.local
+.DS_Store
+
+dev-model.gql
+
+# Local Netlify folder
+.netlify
