@@ -1,4 +1,7 @@
-# Dependencies
+# Temporary unified contentful
+Stick this code in your code workspace and leverage to use Connect and Create together.
+
+## Dependencies
 * gatsby-source-contentful
 * gatsby-plugin-image
 * @stackbit/cms-contentful
